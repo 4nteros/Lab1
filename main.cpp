@@ -13,6 +13,7 @@ using namespace std;
 Символьные: char, unsigned char
 Логический - bool
 
+3)
 
 */
 
